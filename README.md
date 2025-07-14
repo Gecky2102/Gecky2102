@@ -5,10 +5,10 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gecky.py) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gecky@geckydev.me) [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://www.geckydev.me)
 
-# Trophy:
+## 🏆 Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gecky2102&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
@@ -46,13 +46,8 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gecky2102&show_icons=true&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Gecky2102&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gecky2102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=Gecky2102&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/><br/>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31garwjianwaylkm2mf2n4frcvja&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
