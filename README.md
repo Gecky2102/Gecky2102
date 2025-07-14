@@ -45,5 +45,6 @@
 
 <details>
   <summary>Click to expand</summary>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gecky2102&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
