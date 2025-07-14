@@ -9,13 +9,13 @@
 <details>
   <summary>Proficient (commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,java,git,cloudflare,nginx,sqlite,mysql,powershell,docker,github,bash,linux,windows,nodejs,npm,md,maven,ubuntu,vscode,debian)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,java,git,cloudflare,nginx,sqlite,mysql,docker,github,bash,linux,windows,nodejs,npm,md,maven,ubuntu,vscode)](https://skillicons.dev)
 </details>
 
 <details>
   <summary>Confident (less commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,ps,php,vite,tailwind,bootstrap,laravel,notion,githubactions,raspberrypi,kali,arch)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,ps,php,vite,tailwind,bootstrap,laravel,notion,githubactions,debian,powershell,raspberrypi,kali,arch)](https://skillicons.dev)
 </details>
 
 <details>
