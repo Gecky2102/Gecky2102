@@ -9,19 +9,19 @@
 <details>
   <summary>Proficient (commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,java,git,cloudflare,nginx,sqlite,mysql,docker,github,bash,linux,windows,nodejs,npm,md,maven,ubuntu,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,git,cloudflare,nginx,sqlite,mysql,docker,github,bash,linux,windows,nodejs,npm,md,maven,ubuntu,vscode)](https://skillicons.dev)
 </details>
 
 <details>
   <summary>Confident (less commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,ps,php,vite,tailwind,bootstrap,laravel,notion,githubactions,debian,powershell,raspberrypi,kali,arch)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,ps,vite,react,tailwind,notion,githubactions,debian,powershell,raspberrypi,kali,arch)](https://skillicons.dev)
 </details>
 
 <details>
   <summary>Tried (but don't use frequently)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=pr,wordpress,arduino,gcp,godot,pycharm,replit,visualstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=pr,wordpress,arduino,gcp,php,godot,pycharm,replit,bootstrap,laravel,visualstudio)](https://skillicons.dev)
 </details>
 
 <details>
@@ -38,7 +38,6 @@
   ![](https://github-readme-stats.vercel.app/api?username=Gecky2102&show_icons=true&theme=dark)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Gecky2102&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gecky2102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-  [![](https://github-readme-stats.vercel.app/api/wakatime?username=Gecky2102&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ## 🏆 Trophy:
