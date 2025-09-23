@@ -9,19 +9,19 @@
 <details>
   <summary>Proficient (commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,git,cloudflare,nginx,sqlite,mysql,docker,github,bash,linux,windows,nodejs,npm,md,maven,ubuntu,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java,git,cloudflare,nginx,sqlite,mysql,docker,github,bash,linux,windows,md,maven,ubuntu,vscode)](https://skillicons.dev)
 </details>
 
 <details>
   <summary>Confident (less commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,ps,vite,react,tailwind,notion,githubactions,debian,powershell,raspberrypi,kali,arch)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,js,html,css,ps,vite,react,tailwind,notion,githubactions,debian,powershell,nodejs,npm,raspberrypi)](https://skillicons.dev)
 </details>
 
 <details>
   <summary>Tried (but don't use frequently)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=pr,wordpress,arduino,gcp,php,godot,pycharm,replit,bootstrap,laravel,visualstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=pr,wordpress,arduino,gcp,php,godot,pycharm,replit,bootstrap,kali,arch,laravel,visualstudio)](https://skillicons.dev)
 </details>
 
 <details>
