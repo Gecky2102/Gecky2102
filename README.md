@@ -3,19 +3,18 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gecky.py) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gecky@geckydev.me) [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://www.geckydev.me)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geckyyyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gecky@gmasiero.it) [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://www.gmasiero.it)
 ## 💻 Tech Stack:
 <details>
   <summary>Proficient (commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=py,java,git,cloudflare,nginx,sqlite,mysql,docker,github,bash,linux,windows,md,maven,ubuntu,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java,git,cloudflare,sqlite,mysql,docker,github,bash,linux,windows,md,maven,ubuntu,vscode,notion)](https://skillicons.dev)
 </details>
 
 <details>
   <summary>Confident (less commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,js,html,css,ps,vite,react,tailwind,notion,githubactions,debian,powershell,nodejs,npm,raspberrypi)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,mongodb,js,html,css,ps,vite,react,tailwind,githubactions,debian,powershell,nodejs,npm,raspberrypi,nginx)](https://skillicons.dev)
 </details>
 
 <details>
@@ -28,22 +27,4 @@
   <summary>Soon™️</summary><br/>
 
   [![My Skills](https://skillicons.dev/icons?i=postgres,c,cs,cpp)](https://skillicons.dev)
-</details>
-
- 
-## 📊 GitHub Stats:
-<details>
-  <summary>Click to expand</summary>
-
-  ![](https://github-readme-stats.vercel.app/api?username=Gecky2102&show_icons=true&theme=dark)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Gecky2102&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gecky2102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-</details>
-
-## 🏆 Trophy:
-
-<details>
-  <summary>Click to expand</summary>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gecky2102&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
