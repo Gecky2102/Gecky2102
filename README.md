@@ -8,7 +8,7 @@
 <details>
   <summary>Proficient (commonly used)</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=py,java,git,cloudflare,sqlite,mysql,docker,github,bash,linux,windows,md,maven,ubuntu,vscode,notion)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java,git,cloudflare,sqlite,mysql,docker,github,bash,linux,windows,md,maven,ubuntu,vscode,notion,postgres)](https://skillicons.dev)
 </details>
 
 <details>
@@ -26,5 +26,5 @@
 <details>
   <summary>Soon™️</summary><br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=postgres,c,cs,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
 </details>
